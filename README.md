@@ -3,10 +3,15 @@ Why I recommend Macbook to freshmen.
 
 # 软件下载
 1.Macapp分享频道，免登录下载
+
 2.MacYY，网站简单干净无广告
+
 3.MacBL（马可菠萝），有很多好用的插件
+
 4.Appstorrent，软件+游戏+插件+Mac系统固件
+
 5.老牌网站Xclient其实也不错，每天都会推荐限时免费软件，但是最近好像打不开了
+
 
 # Mac优势
 1️⃣超长的续航，别人8小时，Mac18小时

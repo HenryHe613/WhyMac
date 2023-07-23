@@ -1,3 +1,8 @@
+---
+theme: cayman
+---
+
+
 # WhyMac
 Why I recommend Macbook to freshmen.
 
